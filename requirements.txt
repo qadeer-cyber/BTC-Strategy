@@ -1,0 +1,8 @@
+# PolyCopilot Requirements
+# Compatible with macOS High Sierra (10.13) and Python 3.7
+
+# HTTP client
+requests==2.25.1
+
+# For PyInstaller packaging (optional)
+# pyinstaller==4.2
